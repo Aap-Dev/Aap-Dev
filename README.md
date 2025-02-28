@@ -9,7 +9,5 @@
 - 🌱 I’m currently learning protected mode Assembly Language
 - 💬 Ask me about osdev
 - 📫 How to reach me: contact me via discord: AapDev#6573
-- 😄 Pronouns: he/him
 
 
-I <3 Assembly
